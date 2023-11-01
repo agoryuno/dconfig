@@ -1,3 +1,2 @@
 omegaconf
 yacs
-smart_open
