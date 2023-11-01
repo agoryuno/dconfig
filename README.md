@@ -8,7 +8,7 @@ and [fvcore](https://github.com/facebookresearch/fvcore) without introducing a m
 Use `pip`:
 
 ```
-pip isntall git+https://github.com/agoryuno/dconfig
+pip install git+https://github.com/agoryuno/dconfig
 ```
 
 or add it to your `requirements.txt`:
