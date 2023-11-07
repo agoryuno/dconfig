@@ -7,9 +7,11 @@ import inspect
 import logging
 import yaml
 
+from fvcore.common.config import CfgNode as _CfgNode
+
 BASE_KEY = "_BASE_"
 
-class CfgNode:
+class CfgNode(_CfgNode):
     """
     The same as `fvcore.common.config.CfgNode`, but different in:
 
